@@ -2,7 +2,7 @@ Performance was evaluated on an NVIDIA H100 GPU (Ours) versus a commercial FEM s
 
 ## 1. Thermal Analysis Results
 ![Thermal Samples](https://github.com/with2say/DAC26/blob/main/thermal_samples.png)
-> **Figure 1. Thermal Analysis (Normal)**
+> **Figure 1. Thermal Analysis (Normal).** Prediction results for typical thermal distribution cases.
 
 | Method | Latency | Speed-up | MAE | MSE | nMAE (%) |
 | :--- | :---: | :---: | :---: | :---: | :---: |
