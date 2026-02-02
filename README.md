@@ -2,6 +2,7 @@ Performance was evaluated on an NVIDIA H100 GPU (Ours) versus a commercial FEM s
 
 ## 1. Thermal Analysis Results
 ![Thermal Samples](https://github.com/with2say/DAC26/blob/main/thermal_samples.png)
+Figure 1. Thermal Analysis (Normal)
 
 | Method | Latency | Speed-up | MAE | MSE | nMAE (%) |
 | :--- | :---: | :---: | :---: | :---: | :---: |
@@ -10,6 +11,10 @@ Performance was evaluated on an NVIDIA H100 GPU (Ours) versus a commercial FEM s
 
 ## 2. Stress Analysis Results
 ![Simulation Results](https://github.com/with2say/DAC26/blob/main/stress_samples.png)
+Figure 2. Thermal Analysis (Normal)
+
+![Simulation Results](https://github.com/with2say/DAC26/blob/main/stress_worst.png)
+Figure 3. Stress Analysis (Worst) Evaluation of samples with the highest prediction errors. The model accurately still captures the gradients.
 
 | Method | Latency | Speed-up | MAE | MSE | nMAE (%) |
 | :--- | :---: | :---: | :---: | :---: | :---: |
