@@ -1,5 +1,7 @@
 Performance was evaluated on an NVIDIA H100 GPU (Ours) versus a commercial FEM solver (CPU), averaged over 10,000 test samples.
 
+---
+
 ## 1. Thermal Analysis Results
 ![Thermal Samples](https://github.com/with2say/DAC26/blob/main/thermal_samples.png)
 > **Figure 1. Thermal Analysis (Normal).** Prediction results for typical thermal distribution cases.
@@ -9,6 +11,7 @@ Performance was evaluated on an NVIDIA H100 GPU (Ours) versus a commercial FEM s
 | **FEM** | 1.20 s | - | - | - | - |
 | **Ours** | **0.47 ms** | **x2,553** | 0.2288 | 0.0939 | **0.0925%** |
 
+---
 
 ## 2. Stress Analysis Results
 ![Simulation Results](https://github.com/with2say/DAC26/blob/main/stress_samples.png)
