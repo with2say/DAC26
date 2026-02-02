@@ -9,9 +9,10 @@ Figure 1. Thermal Analysis (Normal)
 | **FEM** | 1.20 s | - | - | - | - |
 | **Ours** | **0.47 ms** | **x2,553** | 0.2288 | 0.0939 | **0.0925%** |
 
+
 ## 2. Stress Analysis Results
 ![Simulation Results](https://github.com/with2say/DAC26/blob/main/stress_samples.png)
-Figure 2. Thermal Analysis (Normal)
+Figure 2. Stress Analysis (Normal)
 
 ![Simulation Results](https://github.com/with2say/DAC26/blob/main/stress_worst.png)
 Figure 3. Stress Analysis (Worst) Evaluation of samples with the highest prediction errors. The model accurately still captures the gradients.
