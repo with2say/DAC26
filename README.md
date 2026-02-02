@@ -1,7 +1,7 @@
 Performance was evaluated on an NVIDIA H100 GPU (Ours) versus a commercial FEM solver (CPU), averaged over 10,000 test samples.
 
 ## 1. Thermal Analysis Results
-![Simulation Results](https://user-images.githubusercontent.com/placeholder/simulation_results.png)
+![Thermal Samples](https://raw.githubusercontent.com/with2say/DAC26/main/thermal_samples.png)
 
 | Method | Latency | Speed-up | MAE | MSE | nMAE (%) |
 | :--- | :---: | :---: | :---: | :---: | :---: |
